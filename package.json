@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@craco/craco": "^6.4.5",
     "@headlessui/react": "^1.5.0",
+    "@heroicons/react": "^1.0.6",
     "@tailwindcss/forms": "^0.5.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
@@ -21,7 +23,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build -r https://github.com/catherineisonline/edgy"
+    "deploy": "gh-pages -d build -r  https://github.com/catherineisonline/edgy"
   },
   "eslintConfig": {
     "extends": [

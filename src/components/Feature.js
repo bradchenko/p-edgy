@@ -9,38 +9,38 @@ const features = [
   {
     name: "Flexible plans",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+      "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: PlanIcon,
   },
   {
     name: "Targeted audience",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+    "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: TargetIcon,
   },
   {
     name: "Content management",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+    "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: ContentIcon,
   },
   {
     name: "Organic followers",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+    "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: FollowerIcon,
   },
   {
     name: "Advanced security",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+    "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: SecurityIcon,
   },
 
   {
     name: "24/7 support",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+    "And the developer of the smart vehicle was the creator of the diesel engine. And let the disease be great.",
     icon: PhoneIcon,
   },
 ];
@@ -56,9 +56,8 @@ export default function Feature() {
           #1 Instagram Growth Agency
         </p>
         <p className="mx-auto mt-5 max-w-prose text-xl text-gray-500">
-          Phasellus lorem quam molestie id quisque diam aenean nulla in.
-          Accumsan in quis quis nunc, ullamcorper malesuada. Eleifend
-          condimentum id viverra nulla.
+          
+There is no one in the age of the person who is in charge of the company. Accumsan in quis quis now, ullamcorper expected. There is no cartoon to highlight the story.
         </p>
         <section className="mt-12">
           <section className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">

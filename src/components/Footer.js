@@ -2,8 +2,8 @@ import { NavLink } from "react-router-dom";
 
 const navigation = {
   solutions: [
-    { name: "+1 202 555 0186", href: "tel:+1-202-555-0186" },
-    { name: "+44 1632 960362", href: "tel:+44-1632-960362" },
+    { name: "+91 9879868908", href: "tel:+1-202-555-0186" },
+    { name: "+91 9009090909", href: "tel:+44-1632-960362" },
     { name: "support@edgy.com", href: "mailto:support@edgy.com" },
   ],
   support: [

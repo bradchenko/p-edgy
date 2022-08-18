@@ -5,25 +5,25 @@ const stats = [
     id: 1,
     stat: "5K+",
     title: "Happy Customers",
-    desc: "use laoreet amet lacus nibh integer quis.",
+    desc: "use our app",
   },
   {
     id: 2,
     stat: "205M+",
     title: "Followers Gained",
-    desc: "lacus nibh integer quis.",
+    desc: "valuable followers",
   },
   {
     id: 3,
     stat: "+150%",
     title: "Increased Engagement",
-    desc: "laoreet amet lacus nibh integer quis.",
+    desc: "use our app",
   },
   {
     id: 4,
     stat: "+33%",
     title: "Increased Leads",
-    desc: "lacus nibh integer quis.",
+    desc: "and we are still growing",
   },
 ];
 
@@ -54,10 +54,8 @@ export default function Stats() {
             TRUSTED BY THOUSANDS OF BUSINESS OWNERS
           </p>
           <p className="mt-5 text-lg text-gray-300">
-            Rhoncus sagittis risus arcu erat lectus bibendum. Ut in adipiscing
-            quis in viverra tristique sem. Ornare feugiat viverra eleifend fusce
-            orci in quis amet. Sit in et vitae tortor, massa. Dapibus laoreet
-            amet lacus nibh integer quis. Eu vulputate diam sit tellus quis at.
+            
+The snort of arrows of laughter was a bed to drink. I would be sad in the cartoon. Ornare feugiat viverra eleifend fusce orci in quis amet. Let it be in the mass of life. Dapibus laoreet amet lacus nibh who is whole. Eu vulputate diam sit tellus quis at
           </p>
           <section className="mt-12 grid grid-cols-1 gap-y-12 gap-x-6 sm:grid-cols-2">
             {stats.map((item) => (
